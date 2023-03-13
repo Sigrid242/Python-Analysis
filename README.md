@@ -2,7 +2,7 @@ Python-Used bike data analysis
 
 A used bike company is expanding its market in various India cities to meet customer demand and make more profit. The aim of the analysis is to find more about the market position in those cities to help the company make informed decisions based on those findings.
 
-Objectives Questions to answer:
+Questions to answer:
 
 What is the average bike price for each owner category?
 What is the average bike price in each city?
