@@ -11,3 +11,5 @@ What is the top 5 selling bike_name?
 Which top 5 brand category sell the most?
 
 Link: https://www.kaggle.com/code/sigrid/used-bike-price-analysis
+
+Report: https://docs.google.com/presentation/d/1qIJXUapTcCn51qEiVtrAZTGYn-PwZttqdkvsLj2jeOk/edit#slide=id.p
